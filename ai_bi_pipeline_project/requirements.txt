@@ -1,0 +1,8 @@
+pandas
+sqlalchemy
+psycopg2-binary
+snowflake-connector-python
+scikit-learn
+joblib
+streamlit
+apache-airflow==2.6.3
